@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Name": "Playlist 1",
+    "Tracks": []
+  },
+  {
+    "Id": 2,
+    "Name": "Playlist 2",
+    "Tracks": []
+  }
+]
