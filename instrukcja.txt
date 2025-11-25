@@ -1,0 +1,52 @@
+Instrukcja instalacji .NET Runtime 
+Wejdź na oficjalną stronę .NET
+
+1. Otwórz przeglądarkę.
+
+2. Wejdź na stronę:
+https://dotnet.microsoft.com/download/dotnet
+
+3. Wybierz wersję .NET
+
+Najczęściej używana jest aktualna wersja LTS (np. .NET 8 lub nowsza).
+
+Kliknij:
+➡ Download .NET Runtime
+
+4. Wybierz runtime odpowiedni dla aplikacji
+
+Zazwyczaj potrzebujesz:
+
+ .NET Desktop Runtime
+
+— jeśli aplikacja ma okno / GUI (WinForms, WPF).
+
+ .NET Runtime
+
+— jeśli aplikacja jest konsolowa.
+
+  ASP.NET Core Runtime
+
+— jeśli aplikacja jest serwerem internetowym.
+
+Najczęściej: .NET Desktop Runtime.
+
+Pobierz instalator
+
+5. Kliknij:
+
+Windows x64 Installer (.exe) — jeśli masz zwykły komputer z Windows 64-bit
+
+Windows x86 lub ARM — tylko jeśli tego potrzebujesz
+
+Plik się pobierze.
+
+6. Uruchom instalator
+
+7. Otwórz pobrany plik .exe
+
+8. Klikaj Dalej / Next
+
+9. Zaakceptuj licencję
+
+10. Zakończ instalację
